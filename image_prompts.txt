@@ -1,0 +1,59 @@
+Here are the image generation prompts for your 8 feature cards.
+Recommended Model: Gemini 3 Pro Image Preview (or similar high-quality model)
+Recommended Aspect Ratio: 4:3 or 16:9
+
+---
+
+1. Native Model (原生大模型)
+Theme: Unlimited Creativity, Fluid Art, Abstract
+Prompt:
+A mesmerizing abstract composition of fluid colorful paints swirling together, vibrant violet, indigo and neon blue gradients, liquid 3D texture, intricate details, cinematic lighting, representing unlimited creativity and imagination, 8k resolution, photorealistic, wallpaper style.
+
+---
+
+2. Agent Gen (Agent生图)
+Theme: AI Intelligence, Cyberpunk, Future
+Prompt:
+A futuristic concept art of an artificial intelligence neural network node, glowing cyan and blue data streams, cyberpunk aesthetic, high-tech glass texture, sleek dark background, intricate circuit details, representing smart processing, 8k resolution, digital art.
+
+---
+
+3. Detail Gen (商详页生成)
+Theme: E-commerce, Product Showcase, Clean
+Prompt:
+Professional product photography of a sleek, unbranded luxury perfume bottle on a white marble podium, soft studio lighting, minimalist geometric background with soft pastel teal and emerald tones, high-end e-commerce aesthetic, sharp focus, 8k resolution.
+
+---
+
+4. Buyer Show (虚拟买家秀)
+Theme: Fashion, Realistic, Street Style
+Prompt:
+A stylish cinematic portrait of a fashion model wearing trendy modern streetwear, standing in a blurred urban city street at golden hour, warm orange and rose lighting, realistic fabric texture, high-fashion magazine style, natural pose, 8k resolution.
+
+---
+
+5. Smart Expand (智能扩图)
+Theme: Breaking Boundaries, Landscape, Vast
+Prompt:
+Breathtaking wide-angle landscape of majestic mountains fading into a digital horizon, a blend of reality and digital grid lines extending outwards, sense of expansion and scale, deep purple and fuchsia sunset sky, cinematic composition, 8k resolution.
+
+---
+
+6. Magic Eraser (魔法消除)
+Theme: Clean, Disappearing, Magic
+Prompt:
+A minimalist macro photography shot of magical glittering gold and red particles dissolving into thin air, soft focus, clean and airy aesthetic, representing removal and cleanliness, ethereal lighting, high detail, 8k resolution.
+
+---
+
+7. HD Upscale (超清放大)
+Theme: Details, Macro, Sharpness
+Prompt:
+Extreme macro photography of a complex geometric crystal structure, incredible sharpness and detail showing microscopic textures, vibrant amber and gold lighting, translucent material, representing 4K clarity, 8k resolution.
+
+---
+
+8. Vectorize (矢量化转换)
+Theme: Graphic Design, 3D Shapes, Clean
+Prompt:
+Abstract geometric shapes rendered in a clean modern vector art style, smooth gradients of slate gray and cool blue, isometric view, 3D render looking like 2D graphics, perfect curves, high contrast, minimalist design, 8k resolution.
